@@ -49,3 +49,35 @@ h2{
 h3{
     color: gray;
 }
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+   
+}
+.single{
+    box-shadow: 10px 10px 30px gray;
+    height: 200px;
+}
+
+    }
+    #deb{
+border-left: 5px solid;
+border-image: linear-gradient(red,lightsalmon );
+border-image-slice: 1;
+
+    }
+    #keb{
+        border-left: 5px solid;
+        border-image: linear-gradient(red,lightsalmon );
+        border-image-slice: 1;
+    
+    }
+    .ex{
+        position: relative;
+        left: 20px;
+  
+    }
+    footer{
+        text-align: center;
+    }
