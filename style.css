@@ -55,8 +55,7 @@ h3{
     box-shadow: 10px 10px 30px gray;
     height: 200px;
 }
-    
-    #deb{
+       #deb{
 border-left: 5px solid;
 border-image: linear-gradient(red,lightsalmon );
 border-image-slice: 1;
