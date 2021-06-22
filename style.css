@@ -29,6 +29,7 @@ img{
 }
 section{
     height: 400px;
+    padding-bottom: 100px;
     
 }
 .link-button{
@@ -38,4 +39,13 @@ section{
     border-radius: 5px;
     color: whitesmoke;
     font-weight: 700;
+}
+
+h2{
+    font-weight: 700;
+    font-family: cursive;
+    color: salmon;
+}
+h3{
+    color: gray;
 }
