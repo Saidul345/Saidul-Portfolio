@@ -39,6 +39,12 @@ section{
     border-radius: 5px;
     color: whitesmoke;
     font-weight: 700;
+    border: wheat solid 2px;
+    
+}
+.link-button:hover{
+height: 5px;
+width: 10%;
 }
 
 h2{
@@ -80,4 +86,6 @@ border-image-slice: 1;
     }
     footer{
         text-align: center;
+        font: 1em sans-serif;
+        color: tomato;
     }
